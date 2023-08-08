@@ -12,7 +12,7 @@ Inside the main element, there are two 'section' elements, one for the textual c
 The textual content section includes an 'h1' element for the shoe's name and two 'p' elements for the description. <br>
 The image section includes an 'img' element with the class main-image, displaying the shoe image. <br>
 
-styles.css
+styles.css <br>
 The CSS file defines styles for various elements used in the HTML. <br>
 The body is styled with a light gray background color. <br>
 The section element is styled with a maximum width and is displayed as an inline-block. <br>
