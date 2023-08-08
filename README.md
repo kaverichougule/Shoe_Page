@@ -3,6 +3,8 @@ Hosted Link: https://kaverichougule.github.io/Shoe_Page/
 # Shoe Page
 ![image](https://github.com/kaverichougule/Shoe_Page/assets/101037685/6165ec91-7836-4e10-a49d-25d920bffdf5)
 
+![image](https://github.com/kaverichougule/Shoe_Page/assets/101037685/544518e8-3ad1-4f22-b241-bed1bc413873)
+![image](https://github.com/kaverichougule/Shoe_Page/assets/101037685/ba5bbda5-5c53-4bbc-a670-5bedfc3ea981)
 index.html <br>
 The HTML file contains the basic structure for the webpage, including the 'html', 'head', and 'body' tags. <br>
 In the 'head' section, there are meta tags for character encoding and viewport settings, and the title of the webpage is set to "Shoe Page". <br>
